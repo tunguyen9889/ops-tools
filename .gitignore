@@ -1,0 +1,39 @@
+# Temporary files #
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Desktop.ini
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+
+# Compiled source
+*.pyc
+.cache
+.tox
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.out
+
+# Application specific files
+venv
+node_modules
+.sass-cache
+
+# Pycharm
+.idea
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
